@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/ondas-periodicas.jpg)
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    padding: 20px;
+}
+#Importante{
+    color: red;
+    padding: 30px;
+    font-size: 208%;
+}
+.texto{
+    color: purple;
+    font-size: 150%;
+}
+.text{
+    color: white;
+}
+#search{
+    outline: none;
+}
+a{
+    font-size: 130%;
+    color: aqua;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 210%;
+}
+.esporte{
+    color: white;
+    font-size: 117%;
+}
+h4{
+    color: aqua;
+    font-size: 117%;
+}
